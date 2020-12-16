@@ -10,3 +10,7 @@ https://akiyoko.hatenablog.jp/entry/2015/08/24/192618
 https://kimbio.info/video-js-autoplay/
 
 https://akiyoko.hatenablog.jp/entry/2015/08/11/015852
+
+https://youtu.be/3ykzi358sK8
+
+
