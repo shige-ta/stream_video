@@ -14,6 +14,27 @@ https://akiyoko.hatenablog.jp/entry/2015/08/11/015852
 https://youtu.be/3ykzi358sK8
 
 
+## バケットポリシー
+
+```json
+{
+  "Id": "Policy1434989802960",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "Stmt1434989800735",
+      "Action": [
+        "s3:GetObject"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::xxxxx/*",
+      "Principal": "*"
+    }
+  ]
+}
+```
+
+
 ## CORS ポリシー
 
 ```json
