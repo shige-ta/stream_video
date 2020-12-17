@@ -14,3 +14,22 @@ https://akiyoko.hatenablog.jp/entry/2015/08/11/015852
 https://youtu.be/3ykzi358sK8
 
 
+## CORS ポリシー
+
+```json
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "*"
+        ],
+        "ExposeHeaders": [],
+        "MaxAgeSeconds": 3000
+    }
+]
+```
